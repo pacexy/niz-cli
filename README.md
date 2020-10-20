@@ -4,6 +4,8 @@
 
 **IN WINDOWS, DON'T USE CMD!**
 
+![screenshot](/media/screenshot.gif)
+
 ## Install
 
 ```shell
@@ -25,5 +27,5 @@ $ niz <length> [options]
 ## Example
 
 ```shell
-$ niz 3 --regex ^r
+$ niz 3 --regex ^az
 ```
